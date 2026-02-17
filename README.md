@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=Alina+Shaji;Engineering+Reliable+Intelligent+Systems;AI+%7C+Computer+Vision+%7C+NLP+%7C+Secure+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=950&lines=Alina+Shaji;Systems-Level+AI+Engineering;Computer+Vision+%7C+NLP+%7C+Secure+Architecture;Designing+Scalable+Intelligent+Infrastructure" />
 </p>
 
 ---
@@ -10,104 +10,118 @@ Christ University (2023–2027)
 
 ---
 
-## Professional Profile
+## Profile
 
-I build AI systems with a systems-first mindset — prioritizing structure, reliability, and long-term scalability.
+I design and implement intelligent systems with a focus on architectural clarity, reliability under constraints, and secure integration.
 
-My work focuses on translating machine learning concepts into production-aware architectures where intelligence operates securely and efficiently within real constraints.
+My work emphasizes end-to-end AI pipeline development — from data preprocessing and model selection to inference integration and deployment-aware backend structuring.
 
-I am intentionally developing toward systems-level AI engineering — where research depth meets scalable infrastructure.
+I am intentionally developing toward large-scale AI infrastructure engineering, where algorithmic rigor meets production stability.
 
 ---
 
 ## Current Focus
 
-- Improving reliability in Retrieval-Augmented architectures  
-- Exploring efficiency trade-offs in real-time Computer Vision systems  
-- Studying secure model integration within backend services  
-- Strengthening data structure and algorithmic foundations  
+• Optimizing Retrieval-Augmented Generation pipelines to reduce hallucination  
+• Exploring latency-performance trade-offs in real-time computer vision systems  
+• Strengthening algorithmic foundations (data structures, time/space complexity)  
+• Improving model-to-backend communication reliability  
 
 ---
 
-## Career Direction
-
-I am seeking opportunities within product-focused and high-performance engineering teams where:
-
-- Machine learning models serve production systems  
-- AI features are performance-measured  
-- Reliability and security are engineering priorities  
-- Technical depth and ownership are valued  
-
-Long-term goal: to contribute to large-scale AI infrastructure and intelligent product systems.
-
----
-
-## Core Capability Areas
+## Core Engineering Domains
 
 ### Systems-Oriented AI Engineering
-- Structured ML pipeline design  
-- Real-time inference workflow design  
-- Backend model integration  
-- Maintainable code architecture  
+
+- Designing structured ML pipelines with defined data flow boundaries  
+- Implementing real-time inference loops with predictable latency  
+- Integrating models into Flask-based backend services  
+- Applying time complexity awareness during preprocessing and retrieval  
+
+I prioritize deterministic behavior, scalability planning, and maintainability.
+
+---
 
 ### Research-Driven Machine Learning
-- Retrieval-Augmented Generation exploration  
-- Semantic embedding strategies  
-- Dataset preparation and evaluation design  
-- Reliability improvement in generative models  
+
+- TF-IDF and embedding-based semantic similarity exploration  
+- Cosine similarity-based retrieval optimization  
+- Vector search pipeline design for contextual grounding  
+- Error analysis for generative output stabilization  
+
+Ongoing exploration includes reducing hallucination through controlled retrieval mechanisms and improved context window strategies.
+
+---
 
 ### Applied Product AI
-- Computer Vision-based gesture control system  
-- NLP conversational system implementation  
-- LLM-integrated retrieval pipelines  
 
-### Secure AI Architecture
-- Web vulnerability detection (SQL Injection, XSS)  
-- Risk scoring model design  
-- Defensive backend structuring  
-- Secure system thinking during implementation  
+- Real-time gesture recognition system using OpenCV  
+- Feature extraction and threshold-based action mapping  
+- NLP conversational system with preprocessing pipeline  
+- Backend integration with structured request-response logic  
+
+Implemented systems focus on measurable performance indicators such as response latency consistency, pipeline stability, and reduction of invalid outputs.
+
+---
+
+### Secure AI Systems Design
+
+- Detection logic for SQL Injection and XSS vulnerabilities  
+- Payload pattern analysis and anomaly-based scoring  
+- Risk classification mechanism design  
+- Defensive backend integration strategies  
+
+Security logic is incorporated during system design, not retrofitted after implementation.
 
 ---
 
 ## Selected Engineering Work
 
 **Hand Gesture-Based Application Launcher**  
-Designed a real-time OpenCV pipeline integrated with backend execution control for responsive system-level automation.
+Designed a real-time computer vision inference loop using OpenCV, implementing feature extraction and gesture mapping logic for system-level command execution.  
+Focused on reducing processing delay and improving recognition consistency under varied lighting conditions.
+
+---
 
 **Web Vulnerability Scanner**  
-Implemented payload-based and behavioral detection methods to classify web-layer threats with structured risk assessment logic.
+Developed payload-based detection mechanisms and behavioral validation checks to classify vulnerabilities with structured severity scoring.  
+Improved detection accuracy through rule refinement and false-positive control logic.
 
-**NLP Conversational System**  
-Developed preprocessing and backend communication architecture for interactive query handling.
+---
 
-**LLM + RAG System**  
-Engineered semantic retrieval mechanisms to enhance contextual accuracy and reduce hallucination in generative responses.
+**LLM + RAG Pipeline**  
+Implemented document embedding and cosine similarity–based retrieval flow to enhance contextual grounding of generated responses.  
+Improved response relevance through retrieval threshold tuning and context filtering strategies.
 
 ---
 
 ## Research & Exploration
 
-Currently exploring:
+I am particularly interested in:
 
-- Efficient inference for vision models under computational constraints  
-- Techniques to reduce hallucination in generative language systems  
-- Methods for improving explainability in decision pipelines  
-- Security implications of AI-powered backend services  
+- Efficient inference optimization  
+- Retrieval efficiency vs. response coherence trade-offs  
+- Explainability in decision pipelines  
+- Performance-aware AI system design  
+- Secure deployment of ML-backed services  
 
-Future direction includes contributing to research-oriented AI system optimization.
+I aim to contribute to AI systems that operate reliably under scale, constraint, and adversarial conditions.
 
 ---
 
-## Technical Foundation
+## Technical Stack
 
 Programming  
 Python • Java • C • C++
 
+Core Concepts  
+Time & Space Complexity • Data Structures • Algorithmic Thinking
+
 AI & ML  
-Machine Learning • Deep Learning Foundations • Computer Vision • NLP
+Machine Learning Foundations • Deep Learning Basics • Computer Vision • NLP
 
 Frameworks & Tools  
-Flask • OpenCV • MySQL
+Flask • OpenCV • MySQL • Git
 
 Security  
 Cybersecurity Fundamentals • Vulnerability Analysis Logic
@@ -116,16 +130,16 @@ Cybersecurity Fundamentals • Vulnerability Analysis Logic
 
 ## Leadership & Ownership
 
-I value initiative and structured execution.
+• Architected multiple AI systems independently from concept to deployment  
+• Prioritize structured documentation and maintainable design patterns  
+• Apply systematic debugging and iterative refinement workflows  
+• Take ownership of performance evaluation and stability testing  
 
-- Independently architected and implemented multiple AI-based systems  
-- Emphasize clarity in documentation and implementation flow  
-- Prioritize maintainability and performance benchmarking  
-- Take responsibility for complete problem ownership — from design to refinement  
+I approach engineering decisions with long-term system behavior in mind.
 
 ---
 
-## GitHub Activity
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000" />
@@ -137,11 +151,11 @@ I value initiative and structured execution.
 
 Scalable intelligence is engineered deliberately.
 
-Design → Evaluate → Stress Test → Refine → Secure → Deploy.
+Design → Analyze → Benchmark → Refine → Secure → Deploy
 
-The animated header reflects progression — controlled iteration rather than abrupt change.
+The header animation reflects continuous iteration — structured advancement rather than abrupt change.
 
-That is how durable systems are built.
+Durable systems are not accidental. They are engineered.
 
 ---
 
