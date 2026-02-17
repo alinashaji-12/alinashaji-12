@@ -1,126 +1,110 @@
-<!-- 🌌 AUTO-CHANGING GRADIENT HEADER -->
+<!-- Soft Luxury Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=220&section=header&text=ALINA%20SHAJI&fontSize=48&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=220&section=header&text=ALINA%20SHAJI&fontSize=46&fontColor=111111&animation=fadeIn"/>
 </p>
 
-<!-- ✨ Elegant Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=950&lines=AI+Systems+Engineer;Computer+Vision+%7C+NLP;Secure+AI+Infrastructure;Designing+Scalable+Intelligence" />
-</p>
-
----
-
-<!-- 🌌 Particle Background Illusion -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3200&pause=1000&color=555555&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Computer+Vision+%7C+NLP;Secure+Systems+Architecture;Designing+Scalable+Intelligence" />
 </p>
 
 ---
 
-# 🧊 Floating Glass Control Center
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Vision%20Engine-Glass%20Module-1F1C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP%20Pipeline-Context%20Active-3A1C71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Secure%20Layer-Hardened%20Core-232526?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalability-Expanding-485563?style=for-the-badge"/>
+### Quietly building intelligent systems that scale.
 
 </div>
 
 ---
 
-<!-- 🌊 Soft Shadow Animated Separator -->
+<br>
+
+## Overview
+
+I build artificial intelligence systems with architectural clarity and long-term reliability in mind.
+
+My focus is not on model experimentation alone —  
+but on integrating machine learning into structured, secure, and scalable environments.
+
+I am developing toward systems-level AI engineering where research depth meets production discipline.
+
+---
+
+## Core Areas of Work
+
+### Computer Vision  
+Real-time inference pipelines using OpenCV with structured feature mapping and latency-aware processing.
+
+### Natural Language Processing  
+Embedding-based semantic retrieval systems with cosine similarity optimization and contextual filtering.
+
+### Secure Architecture  
+SQL injection & XSS detection logic designed with defensive validation and risk-aware backend integration.
+
+### Retrieval-Augmented Systems  
+Vector-based similarity search pipelines to improve grounding and response stability in generative workflows.
+
+---
+
+<br>
+
+<!-- Subtle Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-c702df8a-7a1e-4d2f-a3e5-cf4fce6d3d73.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f2f2f2&height=2&section=header"/>
 </p>
 
----
+<br>
 
-# 🌌 3D Rotating AI Emblem
+## Current Focus
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180">
-</p>
-
----
-
-# 🎮 Interactive Dev Studio
-
-<details>
-<summary><strong>👁 Computer Vision Module</strong></summary>
-
-- Real-time gesture recognition system  
-- OpenCV feature extraction  
-- Latency-aware inference loops  
-- Action mapping logic  
-
-</details>
+• Improving reliability in RAG architectures  
+• Latency reduction in real-time vision systems  
+• Strengthening algorithmic foundations  
+• Secure AI deployment patterns  
 
 ---
 
-<details>
-<summary><strong>💬 NLP Intelligence Layer</strong></summary>
+<br>
 
-- Text preprocessing & normalization  
-- Embedding-based retrieval  
-- Cosine similarity optimization  
-- Hallucination reduction strategies  
+## Selected Work
 
-</details>
+**Hand Gesture-Based Application Launcher**  
+Designed a real-time gesture recognition engine integrating OpenCV pipelines with backend command execution.
 
----
+**Web Vulnerability Scanner**  
+Implemented payload analysis and behavioral validation logic for identifying injection and scripting vulnerabilities.
 
-<details>
-<summary><strong>🛡 Secure Architecture</strong></summary>
-
-- SQL Injection & XSS detection  
-- Payload behavior validation  
-- Risk scoring classification  
-- Secure backend integration  
-
-</details>
+**LLM + RAG Pipeline**  
+Built an embedding-driven retrieval framework to enhance contextual grounding and reduce generative instability.
 
 ---
 
-<details>
-<summary><strong>🤖 RAG Infrastructure</strong></summary>
+<br>
 
-- Vector embeddings  
-- Threshold tuning  
-- Context window refinement  
-- Response grounding mechanisms  
-
-</details>
-
----
-
-<!-- Elegant Separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257452-5deba1bb-d1a6-4e93-83e5-5cbd6cbf62fb.gif" width="80%">
-</p>
-
----
-
-# 📊 System Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
----
-
-# 💎 Engineering Ethos
-
-Design → Evaluate → Harden → Scale  
+## Engineering Philosophy
 
 Precision over noise.  
-Structure over shortcuts.  
-Reliability over hype.  
+Structure over complexity.  
+Stability over hype.  
+
+Elegant systems are not loud —  
+they are deliberate.
 
 ---
 
-<!-- Footer Wave -->
+<br>
+
+## Connect
+
+Email: alina.shaji1210@gmail.com  
+LinkedIn: https://www.linkedin.com/in/alina-shaji  
+GitHub: https://github.com/alinashaji-12
+
+<br>
+
+<!-- Soft Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=80&section=footer"/>
 </p>
