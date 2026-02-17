@@ -86,15 +86,19 @@ MySQL
 Cyber Security Fundamentals  
 
 ---
-
 ## 📊 NEURAL_ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinashaji-12&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinashaji-12&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alinashaji-12&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## ⚡ CONTRIBUTION_ENGINE
 
