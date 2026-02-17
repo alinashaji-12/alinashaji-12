@@ -84,3 +84,4 @@ Email: (Add professional email)
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
 </p>
 
+![snake gif](https://github.com/alinashaji-12/alinashaji-12/blob/output/github-contribution-grid-snake.svg)
