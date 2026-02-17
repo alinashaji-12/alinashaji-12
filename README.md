@@ -116,3 +116,4 @@ LinkedIn: https://www.linkedin.com/in/alina-shaji
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
 </p>
 
+![snake gif](https://github.com/alinashaji-12/alinashaji-12/blob/main/dist/github-contribution-grid-snake.svg)
