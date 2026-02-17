@@ -101,8 +101,10 @@ Cyber Security Fundamentals
 ## ⚡ CONTRIBUTION_ENGINE
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alinashaji-12&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=alinashaji-12&theme=radical&hide_border=true" />
 </p>
+
+
 
 ---
 
