@@ -1,57 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=ALINA%20SHAJI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f3460&height=200&section=header&text=ALINA%20SHAJI&fontSize=38&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer+in+Progress;AI+%7C+ML+%7C+NLP+Builder;Designing+Intelligent+Systems;Optimizing+Reality+with+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Engineer;Computer+Vision+Developer;NLP+Systems+Builder;Cyber+Security+Enthusiast;Building+Intelligent+Deployable+Systems" />
 </p>
 
 ---
 
-# 🧠 SYSTEM_CONSOLE : ALINA_OS v2.0
+# 🧠 AI_SYSTEM_LOGS
 
 ---
 
-## 🔬 CORE_SPECIALIZATION
+## 🎓 EDUCATION_MATRIX
 
-- 📷 Computer Vision Systems  
-- 🤖 NLP & LLM Architectures  
-- 🔎 Feature Extraction & Model Optimization  
-- 🚀 Backend AI Deployment  
-
----
-
-## 🛠 TECH_STACK_MATRIX
-
-### 💻 Languages
-Python | SQL | C (Foundations)
-
-### 🧠 AI / ML
-OpenCV  
-Scikit-Learn  
-NLP Pipelines  
-Vector Search  
-Retrieval-Augmented Generation (RAG)  
-LLM Integration  
-
-### ⚙ Backend / Tools
-FastAPI  
-Git & GitHub  
-REST APIs  
-Docker (Learning Phase)
+**Christ University (2023 – 2027)**  
+B.Tech in Computer Science & Engineering  
+Specialization: Artificial Intelligence & Machine Learning  
+Honours in Cyber Security  
 
 ---
 
-## 🚀 PROJECT_PROTOCOLS
+## 💼 WORK_PROTOCOL
 
-### 🔹 LLM + RAG AI System
-Engineered a Retrieval-Augmented Generation pipeline integrating vector embeddings to improve contextual accuracy in AI responses.
+**Software Intern — MatryxSoft Tech LLP | Bangalore**  
+April 2024 – June 2024  
 
-### 🔹 AI Chatbot Backend API
-Developed scalable AI API endpoints using FastAPI with optimized prompt handling and structured response flows.
+- Gained exposure to real-world software development lifecycle  
+- Worked on project-based tasks under professional mentorship  
+- Strengthened debugging, analytical, and structured problem-solving skills  
 
-### 🔹 Computer Vision Model (In Progress)
-Working on image processing and feature detection pipelines using OpenCV for real-time AI applications.
+---
+
+## 🚀 PROJECT_EXECUTION_LAYER
+
+### 🖐 Hand Gesture-Based Application Launcher (Computer Vision)
+- Developed real-time gesture recognition using OpenCV  
+- Created and labeled custom gesture dataset  
+- Trained model for system-level action mapping  
+- Integrated CV pipeline with Flask backend  
+
+---
+
+### 🔐 Web Vulnerability Scanner (Cyber Security)
+- Built scanner to detect SQL Injection & XSS attacks  
+- Implemented payload & behavior-based analysis  
+- Designed risk scoring system  
+- Reduced false positives via validation mechanisms  
+
+---
+
+### 💬 NLP-Based Mini Chatbot
+- Built NLP chatbot for real-time query handling  
+- Implemented text preprocessing & conversational flow logic  
+- Integrated Python + Flask backend  
+
+---
+
+### 🤖 LLM-Powered RAG System
+- Developed vector-based semantic search pipeline  
+- Implemented document embeddings for contextual retrieval  
+- Reduced hallucinations via retrieval-grounded responses  
+
+---
+
+## 🧠 TECH_STACK_CORE
+
+**Languages:**  
+Python | Java | C++  
+
+**AI / ML:**  
+Machine Learning Fundamentals  
+Deep Learning Concepts  
+Computer Vision (OpenCV)  
+Natural Language Processing  
+RAG Architecture  
+
+**Web & Backend:**  
+Flask | HTML | CSS | JavaScript | Tailwind CSS  
+
+**Databases:**  
+MySQL  
+
+**Cyber Security:**  
+Cyber Security Fundamentals  
 
 ---
 
@@ -64,7 +96,7 @@ Working on image processing and feature detection pipelines using OpenCV for rea
 
 ---
 
-## ⚡ CONTRIBUTION_ACTIVITY
+## ⚡ CONTRIBUTION_ENGINE
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alinashaji-12&theme=tokyonight&hide_border=true"/>
@@ -72,11 +104,11 @@ Working on image processing and feature detection pipelines using OpenCV for rea
 
 ---
 
-## 🌐 CONNECT
+## 🔗 NETWORK_INTERFACE
 
-LinkedIn: (Add your link)  
-Portfolio: (Add your link)  
-Email: (Add professional email)
+Email: alina.shaji1210@gmail.com  
+GitHub: https://github.com/alinashaji-12  
+LinkedIn: https://www.linkedin.com/in/alina-shaji  
 
 ---
 
@@ -84,4 +116,3 @@ Email: (Add professional email)
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
 </p>
 
-![snake gif](https://github.com/alinashaji-12/alinashaji-12/blob/output/github-contribution-grid-snake.svg)
