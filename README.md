@@ -1,89 +1,86 @@
-<h1 align="center">Ali N</h1>
-<h3 align="center">AI & NLP Engineer in Progress | AIML Student | Systems Builder</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=ALINA%20SHAJI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <em>Building intelligent systems. Optimizing logic. Engineering impact.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer+in+Progress;AI+%7C+ML+%7C+NLP+Builder;Designing+Intelligent+Systems;Optimizing+Reality+with+Code" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-I am a B.Tech student specializing in Artificial Intelligence & Machine Learning with a strong interest in Natural Language Processing, LLM systems, and backend AI architecture.
-
-I focus on building real-world AI applications — not just models, but deployable systems.
-
-- 🔬 Currently building: LLM + RAG powered applications  
-- ⚙ Exploring: Agentic workflows & backend AI pipelines  
-- 📊 Strong foundation in: Machine Learning, NLP, and API development  
-- 🚀 Goal: Become a high-impact AI Engineer
+# 🧠 SYSTEM_CONSOLE : ALINA_OS v2.0
 
 ---
 
-## 🛠 Technical Stack
+## 🔬 CORE_SPECIALIZATION
+
+- 📷 Computer Vision Systems  
+- 🤖 NLP & LLM Architectures  
+- 🔎 Feature Extraction & Model Optimization  
+- 🚀 Backend AI Deployment  
+
+---
+
+## 🛠 TECH_STACK_MATRIX
 
 ### 💻 Languages
-- Python  
-- SQL  
-- Java (fundamentals)
+Python | SQL | C (Foundations)
 
-### 🤖 AI / ML
-- Scikit-Learn  
-- NLP pipelines  
-- TF-IDF / Vector search  
-- LLM integration  
-- Retrieval-Augmented Generation (RAG)
+### 🧠 AI / ML
+OpenCV  
+Scikit-Learn  
+NLP Pipelines  
+Vector Search  
+Retrieval-Augmented Generation (RAG)  
+LLM Integration  
 
-### 🌐 Backend & Tools
-- FastAPI  
-- Git & GitHub  
-- REST APIs  
-- Docker (learning)  
-
----
-
-## 🚀 Featured AI Projects
-
-### 🔹 LLM-Powered RAG System
-Developed a Retrieval-Augmented Generation system integrating vector search with LLM responses to enhance contextual accuracy.
-
-### 🔹 AI Chatbot API
-Built and deployed a backend AI chatbot using FastAPI with structured API endpoints and optimized prompt engineering.
-
-### 🔹 Web-Based ML Application
-Designed and implemented a machine learning web interface for predictive modeling tasks.
+### ⚙ Backend / Tools
+FastAPI  
+Git & GitHub  
+REST APIs  
+Docker (Learning Phase)
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 PROJECT_PROTOCOLS
+
+### 🔹 LLM + RAG AI System
+Engineered a Retrieval-Augmented Generation pipeline integrating vector embeddings to improve contextual accuracy in AI responses.
+
+### 🔹 AI Chatbot Backend API
+Developed scalable AI API endpoints using FastAPI with optimized prompt handling and structured response flows.
+
+### 🔹 Computer Vision Model (In Progress)
+Working on image processing and feature detection pipelines using OpenCV for real-time AI applications.
+
+---
+
+## 📊 NEURAL_ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinashaji-12&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinashaji-12&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## ⚡ CONTRIBUTION_ACTIVITY
 
-- Advanced NLP systems  
-- AI system optimization  
-- Clean, scalable backend architecture  
-- Internship opportunities in AI/ML
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alinashaji-12&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT
 
-- LinkedIn: : www.linkedin.com/in/alina-shaji
-- Email: alina.shaji1210@gmail.com
+LinkedIn: (Add your link)  
+Portfolio: (Add your link)  
+Email: (Add professional email)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
 </p>
 
