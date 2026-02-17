@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=Alina+Shaji;Engineering+Intelligent+Systems;AI+%7C+Computer+Vision+%7C+NLP+%7C+Security;Designing+Reliable+Machine+Learning+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3500&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=Alina+Shaji;Engineering+Reliable+Intelligent+Systems;AI+%7C+Computer+Vision+%7C+NLP+%7C+Secure+Architecture" />
 </p>
 
 ---
@@ -12,90 +12,89 @@ Christ University (2023–2027)
 
 ## Professional Profile
 
-I build intelligent systems with structural clarity and long-term reliability in mind.
+I build AI systems with a systems-first mindset — prioritizing structure, reliability, and long-term scalability.
 
-My focus is not just on training models — but on designing AI systems that are scalable, secure, and deployment-aware.
+My work focuses on translating machine learning concepts into production-aware architectures where intelligence operates securely and efficiently within real constraints.
 
-I approach engineering with discipline:
-
-architecture before code,  
-security before scale,  
-stability before speed.
-
-I am building toward becoming a systems-level AI engineer capable of contributing to high-impact product teams and research-driven environments.
+I am intentionally developing toward systems-level AI engineering — where research depth meets scalable infrastructure.
 
 ---
 
-## Career Objective
+## Current Focus
 
-To work in product-focused and research-intensive environments where AI is integrated into real systems — not isolated experiments.
-
-I aim to contribute to:
-
-- Applied Machine Learning infrastructure  
-- Real-time Computer Vision systems  
-- NLP pipeline engineering  
-- Secure AI deployment architectures  
-- Performance-conscious model integration  
-
-Long term, I intend to specialize in intelligent system design at scale — combining AI research depth with production reliability.
+- Improving reliability in Retrieval-Augmented architectures  
+- Exploring efficiency trade-offs in real-time Computer Vision systems  
+- Studying secure model integration within backend services  
+- Strengthening data structure and algorithmic foundations  
 
 ---
 
-## Core Competency Areas
+## Career Direction
 
-### 🔵 Systems-Oriented AI Engineering
-- Structured ML pipeline development  
-- Backend integration for AI applications  
-- Real-time processing workflows  
-- Model-to-system communication design  
+I am seeking opportunities within product-focused and high-performance engineering teams where:
 
-I prioritize maintainability and clarity in system design.
+- Machine learning models serve production systems  
+- AI features are performance-measured  
+- Reliability and security are engineering priorities  
+- Technical depth and ownership are valued  
 
----
-
-### 🟣 Research-Driven Machine Learning
-- Experimentation with Retrieval-Augmented Generation  
-- Semantic search and embedding workflows  
-- Dataset preparation and annotation strategies  
-- Early exploration of explainability techniques  
-
-My interest lies in improving model reliability under practical constraints.
+Long-term goal: to contribute to large-scale AI infrastructure and intelligent product systems.
 
 ---
 
-### 🟢 Applied Product AI Development
-- Hand Gesture-Based Application Launcher (Computer Vision)  
-- NLP-Based Conversational Chatbot  
-- LLM-powered Retrieval Systems  
+## Core Capability Areas
 
-I focus on transitioning ideas into functional, user-facing systems.
+### Systems-Oriented AI Engineering
+- Structured ML pipeline design  
+- Real-time inference workflow design  
+- Backend model integration  
+- Maintainable code architecture  
 
----
+### Research-Driven Machine Learning
+- Retrieval-Augmented Generation exploration  
+- Semantic embedding strategies  
+- Dataset preparation and evaluation design  
+- Reliability improvement in generative models  
 
-### 🛡 Secure AI Systems Perspective
-- Web Vulnerability Detection (SQL Injection, XSS)  
-- Risk scoring logic design  
-- Behavior-based anomaly considerations  
-- Defensive backend thinking  
+### Applied Product AI
+- Computer Vision-based gesture control system  
+- NLP conversational system implementation  
+- LLM-integrated retrieval pipelines  
 
-AI systems must operate safely — not just intelligently.
+### Secure AI Architecture
+- Web vulnerability detection (SQL Injection, XSS)  
+- Risk scoring model design  
+- Defensive backend structuring  
+- Secure system thinking during implementation  
 
 ---
 
 ## Selected Engineering Work
 
 **Hand Gesture-Based Application Launcher**  
-Built a real-time computer vision pipeline using OpenCV to translate gesture recognition into executable system-level actions via backend integration.
+Designed a real-time OpenCV pipeline integrated with backend execution control for responsive system-level automation.
 
 **Web Vulnerability Scanner**  
-Developed payload-based and behavioral analysis mechanisms to identify web-layer vulnerabilities and reduce false positives.
+Implemented payload-based and behavioral detection methods to classify web-layer threats with structured risk assessment logic.
 
-**NLP Mini Chatbot System**  
-Designed preprocessing pipelines and conversational flow logic with backend communication handling.
+**NLP Conversational System**  
+Developed preprocessing and backend communication architecture for interactive query handling.
 
-**LLM-Based Retrieval-Augmented System**  
-Implemented semantic vector search and contextual retrieval methods to enhance generative accuracy and reduce hallucination.
+**LLM + RAG System**  
+Engineered semantic retrieval mechanisms to enhance contextual accuracy and reduce hallucination in generative responses.
+
+---
+
+## Research & Exploration
+
+Currently exploring:
+
+- Efficient inference for vision models under computational constraints  
+- Techniques to reduce hallucination in generative language systems  
+- Methods for improving explainability in decision pipelines  
+- Security implications of AI-powered backend services  
+
+Future direction includes contributing to research-oriented AI system optimization.
 
 ---
 
@@ -105,36 +104,44 @@ Programming
 Python • Java • C • C++
 
 AI & ML  
-Machine Learning Fundamentals • Deep Learning Basics • Computer Vision • NLP
+Machine Learning • Deep Learning Foundations • Computer Vision • NLP
 
 Frameworks & Tools  
 Flask • OpenCV • MySQL
 
-Security Focus  
-Cybersecurity Fundamentals • Vulnerability Detection Concepts
+Security  
+Cybersecurity Fundamentals • Vulnerability Analysis Logic
 
 ---
 
-## Research Interests
+## Leadership & Ownership
 
-- Scalable ML system design  
-- Efficient real-time model deployment  
-- Reliability in generative systems  
-- Secure AI architecture  
-- Human-AI interaction within structured constraints  
+I value initiative and structured execution.
+
+- Independently architected and implemented multiple AI-based systems  
+- Emphasize clarity in documentation and implementation flow  
+- Prioritize maintainability and performance benchmarking  
+- Take responsibility for complete problem ownership — from design to refinement  
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000" />
+</p>
 
 ---
 
 ## Engineering Philosophy
 
-Strong systems evolve gradually.
+Scalable intelligence is engineered deliberately.
 
-They are designed, stress-tested, refined, and hardened.
+Design → Evaluate → Stress Test → Refine → Secure → Deploy.
 
-The animated header represents iteration —  
-each phase stabilizing before advancing.
+The animated header reflects progression — controlled iteration rather than abrupt change.
 
-That is how I build.
+That is how durable systems are built.
 
 ---
 
