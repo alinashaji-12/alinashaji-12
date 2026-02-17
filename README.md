@@ -1,123 +1,104 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f3460&height=200&section=header&text=ALINA%20SHAJI&fontSize=38&fontColor=00F7FF&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Engineer;Computer+Vision+Developer;NLP+Systems+Builder;Cyber+Security+Enthusiast;Building+Intelligent+Deployable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&lines=ALINA+SHAJI;Artificial+Intelligence+%7C+Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+Secure+AI+Systems;Designing+Practical%2C+Scalable+Intelligent+Solutions" />
 </p>
 
 ---
 
-# 🧠 AI_SYSTEM_LOGS
+## ABOUT ME
+
+I am a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning, with focused academic training in Cyber Security.
+
+My work centers on building applied AI systems — combining computer vision, natural language processing, and secure backend integration to create deployable, real-world solutions.
+
+I am particularly interested in designing systems that move beyond experimentation and toward structured, production-ready implementation.
 
 ---
 
-## 🎓 EDUCATION_MATRIX
+## CORE COMPETENCIES
 
-**Christ University (2023 – 2027)**  
-B.Tech in Computer Science & Engineering  
-Specialization: Artificial Intelligence & Machine Learning  
-Honours in Cyber Security  
+**Artificial Intelligence & Machine Learning**
+- Machine Learning fundamentals  
+- Deep Learning concepts  
+- Feature engineering & data preprocessing  
+- Model evaluation & optimization  
+
+**Computer Vision**
+- Real-time gesture recognition systems  
+- Custom dataset creation & annotation  
+- OpenCV-based image processing pipelines  
+
+**Natural Language Processing**
+- Text preprocessing and normalization  
+- Conversational flow logic  
+- Retrieval-Augmented Generation (RAG) systems  
+- Context-aware response integration  
+
+**Cyber Security**
+- Web vulnerability detection (SQL Injection, XSS)  
+- Risk scoring and behavior-based analysis  
+- Secure system design fundamentals  
+
+**Backend & Tools**
+- Python  
+- Java  
+- C++  
+- Flask  
+- MySQL  
+- Git & version control  
 
 ---
 
-## 💼 WORK_PROTOCOL
+## PROFESSIONAL EXPERIENCE
 
-**Software Intern — MatryxSoft Tech LLP | Bangalore**  
+### Software Intern  
+**MatryxSoft Tech LLP, Bangalore**  
 April 2024 – June 2024  
 
 - Gained exposure to real-world software development lifecycle  
-- Worked on project-based tasks under professional mentorship  
-- Strengthened debugging, analytical, and structured problem-solving skills  
+- Contributed to project-based implementations under structured mentorship  
+- Strengthened debugging, analytical reasoning, and production-level coding discipline  
 
 ---
 
-## 🚀 PROJECT_EXECUTION_LAYER
+## SELECT PROJECT WORK
 
-### 🖐 Hand Gesture-Based Application Launcher (Computer Vision)
-- Developed real-time gesture recognition using OpenCV  
-- Created and labeled custom gesture dataset  
-- Trained model for system-level action mapping  
-- Integrated CV pipeline with Flask backend  
+### Hand Gesture-Based Application Launcher (Computer Vision)
+Engineered a real-time hand gesture recognition system that maps visual input to system-level actions.  
+Integrated OpenCV processing with a Flask backend for execution-level control.
 
 ---
 
-### 🔐 Web Vulnerability Scanner (Cyber Security)
-- Built scanner to detect SQL Injection & XSS attacks  
-- Implemented payload & behavior-based analysis  
-- Designed risk scoring system  
-- Reduced false positives via validation mechanisms  
+### Web Vulnerability Scanner (Cyber Security)
+Built a scanner capable of detecting SQL Injection and XSS vulnerabilities using payload-based and behavior-based analysis.  
+Designed a scoring mechanism to classify risk severity and reduce false positives.
 
 ---
 
-### 💬 NLP-Based Mini Chatbot
-- Built NLP chatbot for real-time query handling  
-- Implemented text preprocessing & conversational flow logic  
-- Integrated Python + Flask backend  
+### NLP-Based Chatbot System
+Developed a conversational NLP chatbot with text preprocessing and structured backend integration for seamless response handling.
 
 ---
 
-### 🤖 LLM-Powered RAG System
-- Developed vector-based semantic search pipeline  
-- Implemented document embeddings for contextual retrieval  
-- Reduced hallucinations via retrieval-grounded responses  
+### LLM-Powered RAG System
+Designed a Retrieval-Augmented Generation pipeline using vector embeddings to improve contextual response accuracy and reduce hallucination.
 
 ---
 
-## 🧠 TECH_STACK_CORE
+## ENGINEERING PHILOSOPHY
 
-**Languages:**  
-Python | Java | C++  
+I approach Artificial Intelligence as a systems discipline — not just model training, but integration, scalability, and reliability.
 
-**AI / ML:**  
-Machine Learning Fundamentals  
-Deep Learning Concepts  
-Computer Vision (OpenCV)  
-Natural Language Processing  
-RAG Architecture  
+The animation at the top represents continuous evolution — ideas initializing, systems stabilizing, intelligence refining.  
 
-**Web & Backend:**  
-Flask | HTML | CSS | JavaScript | Tailwind CSS  
+That flow reflects how I work:
+Iteration → Optimization → Deployment → Improvement.
 
-**Databases:**  
-MySQL  
-
-**Cyber Security:**  
-Cyber Security Fundamentals  
+I am committed to building solutions that are technically sound, secure, and production-oriented.
 
 ---
 
-## 📊 NEURAL_ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinashaji-12&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinashaji-12&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alinashaji-12&theme=radical&hide_border=true" />
-</p>
-
-## ⚡ CONTRIBUTION_ENGINE
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alinashaji-12&theme=radical&hide_border=true" />
-</p>
-
-
-
----
-
-## 🔗 NETWORK_INTERFACE
+## CONNECT
 
 Email: alina.shaji1210@gmail.com  
 GitHub: https://github.com/alinashaji-12  
 LinkedIn: https://www.linkedin.com/in/alina-shaji  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
-</p>
-
-![snake gif](https://github.com/alinashaji-12/alinashaji-12/blob/main/dist/github-contribution-grid-snake.svg)
