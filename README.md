@@ -1,119 +1,146 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3200&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&lines=Alina+Shaji;Building+Intelligent+Systems;AI+%7C+Computer+Vision+%7C+NLP;Secure+%26+Scalable+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&lines=Alina+Shaji;Systems-Oriented+AI+Engineer;Research-Driven+ML+Developer;Secure+%26+Scalable+Intelligence" />
 </p>
+
+---
+
+# ALINA SHAJI  
+Artificial Intelligence & Machine Learning  
+Christ University (2023–2027)
 
 ---
 
 ## Who I Am
 
-I am an Artificial Intelligence and Machine Learning student driven by one core idea:
+I engineer intelligence as a system — not just a model.
 
-Intelligence should be engineered — not just trained.
+My approach connects:
 
-My work focuses on connecting models to systems — blending computer vision, NLP, and security principles to design reliable, production-aware AI applications.
+Research depth  
+System reliability  
+Product usability  
+Security thinking  
 
----
-
-## 🎯 Career Objective
-
-To contribute to product-focused technology teams where AI is not experimental but embedded — building scalable, secure, and intelligent features that serve real users.
-
-I am particularly interested in roles that involve:
-
-- Applied Machine Learning
-- Computer Vision engineering
-- NLP systems integration
-- AI system optimization
-- Secure AI deployment
+I focus on building AI solutions that are technically sound, performance-aware, and secure by design.
 
 ---
 
-## 🔬 AI Research Interests
+## Career Direction
 
-- Efficient model deployment for real-time systems  
-- Reducing hallucination in Retrieval-Augmented architectures  
-- Explainability in AI-driven decision systems  
-- Human–AI interaction in conversational systems  
-- Security-aware AI pipeline design  
+I am seeking roles in product-based or research-driven environments where:
 
-I am curious about how intelligent systems behave under constraints — performance limits, security threats, and real-world unpredictability.
+- Machine learning moves beyond experimentation  
+- Models integrate into scalable systems  
+- Security and performance are design priorities  
+- AI features directly impact users  
 
----
-
-## 🧠 Core Strength Areas
-
-### Computer Vision
-- Real-time gesture recognition pipelines  
-- OpenCV-based image processing  
-- Custom dataset preparation and labeling  
-
-### Natural Language Processing
-- Text preprocessing & normalization  
-- Conversational flow architecture  
-- Retrieval-Augmented Generation systems  
-
-### Cyber Security Focus
-- SQL Injection & XSS detection logic  
-- Risk scoring mechanism design  
-- Secure backend architecture thinking  
-
-### Engineering & Tools
-Python | Java | C++  
-Flask | MySQL  
-Version Control & Structured Development  
+Long-term vision:  
+To work at the intersection of applied machine learning, AI system optimization, and secure deployment.
 
 ---
 
-## 🚀 Selected Work
+## Core Domains
 
-### Gesture-Based Application Launcher
-A real-time computer vision system translating human gestures into executable system commands through OpenCV and backend integration.
+### 🔵 Systems-Oriented AI Engineering
+- Designing ML pipelines with structured flow  
+- Real-time inference architecture  
+- Backend integration using Flask  
+- Data preprocessing and pipeline control  
 
-### Web Vulnerability Scanner
-Designed and implemented payload-based and behavioral detection mechanisms to identify web-layer security flaws.
-
-### NLP Chatbot System
-Developed a conversational interface combining preprocessing pipelines with backend APIs for response handling.
-
-### LLM + RAG Pipeline
-Engineered a vector-based semantic retrieval framework to enhance contextual relevance and reduce generative inaccuracies.
+I think in architecture before implementation.
 
 ---
 
-## 🛡 Cybersecurity Emphasis
+### 🟣 Research-Driven ML Development
+- Model experimentation and evaluation  
+- Retrieval-Augmented Generation (RAG) systems  
+- Dataset creation and annotation pipelines  
+- Explainability and reduction of hallucination  
 
-My AI systems are built with defensive thinking.
-
-Security is not an afterthought —  
-it is integrated during design.
-
-I am particularly interested in the intersection of:
-
-AI × System Reliability × Secure Architecture
+I am particularly interested in efficient deployment of ML models under constraints.
 
 ---
 
-## 🧭 Engineering Philosophy
+### 🟢 Product-Focused Applied AI
+- Gesture-based real-time application launcher (Computer Vision)  
+- NLP-driven chatbot system  
+- Semantic retrieval frameworks  
 
-I care less about flashy demos and more about:
-
-- Stability  
-- Maintainability  
-- Real-world behavior  
-- Performance under constraint  
-
-The animated header above reflects progression — iteration over time.
-
-Each frame appears, fades, and transitions.
-
-That mirrors how I build:
-
-Idea → Prototype → Stress Test → Refine → Optimize → Deploy
+My focus is building systems that users can actually use — not just notebooks that run.
 
 ---
 
-## 📫 Connect
+### 🛡 Secure AI Systems Specialist
+- Web vulnerability detection (SQL Injection, XSS)  
+- Behavior-based analysis models  
+- Risk scoring mechanisms  
+- Backend security logic  
+
+I approach AI from a defensive mindset — systems should remain reliable under adversarial conditions.
+
+---
+
+## Selected Work
+
+### Hand Gesture-Based Application Launcher  
+Real-time computer vision pipeline using OpenCV and backend integration for system-level control.
+
+### Web Vulnerability Scanner  
+Payload-based and behavior-based detection logic to identify web-layer security vulnerabilities.
+
+### NLP Mini Chatbot  
+Preprocessing, response logic, backend integration using Python and Flask.
+
+### LLM-Powered RAG System  
+Implemented document embedding, semantic search, and context-aware retrieval to improve output reliability.
+
+---
+
+## Technical Stack
+
+Programming:  
+Python • Java • C • C++
+
+AI & ML:  
+Machine Learning Fundamentals • Deep Learning Basics • Computer Vision • NLP
+
+Frameworks & Tools:  
+Flask • OpenCV • MySQL
+
+Security:  
+Cybersecurity Fundamentals • Vulnerability Analysis Logic
+
+---
+
+## Research Interests
+
+- Efficient ML deployment for real-time systems  
+- Reducing hallucination in generative models  
+- Secure AI architecture  
+- Explainable AI in applied environments  
+- Robust system design under constraints  
+
+---
+
+## Engineering Philosophy
+
+I build in phases:
+
+Design → Prototype → Stress Test → Optimize → Secure → Deploy
+
+The typing animation at the top reflects iteration.
+
+Each phrase appears, stabilizes, and transitions —  
+mirroring how engineered systems evolve.
+
+Intelligence should not be fragile.
+
+It should be dependable.
+
+---
+
+## Connect
 
 Email: alina.shaji1210@gmail.com  
 GitHub: https://github.com/alinashaji-12  
-LinkedIn: https://www.linkedin.com/in/alina-shaji  
+LinkedIn: https://www.linkedin.com/in/alina-shaji
